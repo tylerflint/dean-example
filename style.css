@@ -3,9 +3,18 @@
 body      {margin:0px; padding:0px;}
 ul li     {list-style-type: none;}
 
-.wrapper                  {position: relative;}
+.wrapper                  {margin: 100px auto; position: relative;}
+
+/*top*/
+.top                      {background: blue; margin: 100px auto;}
 .top .nav ul li           {float: left;}
+
+/*middle*/
+.middle                   {background: green; margin: 100px auto;}
 .middle .selections ul li {float: left;}
+
+/*bottom*/
+.bottom                   {background: yellow; margin: 100px auto;}
 .bottom .nav ul li        {float: left;}
 
 
