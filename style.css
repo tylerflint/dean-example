@@ -3,7 +3,10 @@
 body      {margin:0px; padding:0px;}
 ul li     {list-style-type: none;}
 
-.wrapper  {position: relative;}
+.wrapper                  {position: relative;}
+.top .nav ul li           {float: left;}
+.middle .selections ul li {float: left;}
+.bottom .nav ul li        {float: left;}
 
 
 
