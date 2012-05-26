@@ -1,1 +1,4 @@
-body  {background: orange;}
+*       {margin:0px; padding:0px; background:none; outline:none; border:none;}                                                      
+/*body    {margin:0px; padding:0px;}*/
+
+.wrapper  {position: relative; margin: 200px; background: orange;}
